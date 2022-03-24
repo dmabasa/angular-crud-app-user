@@ -25,3 +25,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+Instructions to test the app.
+
+1. Inside angular-crud-app-user/server directory the must run the below command:
+
+json-server --watch db.json (The must insure tha json-server is installed using  npm install -g json-server)
+
+ 
+
+2. Inside angular-crud-app-user directory the must run the below command:
+
+ng serve --open (They must also ensure that the runtime javascript engine, node is installed)
