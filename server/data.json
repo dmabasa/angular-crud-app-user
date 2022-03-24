@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Magezi Mabasa",
+      "email": "magezi.mabasa@vodacom.co.za",
+      "phone": "0609823772",
+      "id": 1
+    },
+    {
+      "name": "Collen",
+      "email": "chaukedvc@gmail.com",
+      "phone": "0609828772",
+      "id": 2
+    }
+  ]
+}
